@@ -3,10 +3,10 @@
 export const storeProducts = [
     {
       id: 1,
-      title: "Cohiba Behike 56",
-      img: "img/1.jpg",
+      title: "Chain ring",
+      img: "img/chain ring.jpeg",
       price: 100,
-      company: "Cohiba",
+      company: "DAJJ Rings",
       info:
         "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
       inCart: false,
@@ -15,10 +15,10 @@ export const storeProducts = [
     },
     {
       id: 2,
-      title: "Cedar Petacas Behike 54",
-      img: "img/2.jpg",
+      title: "Greek Ring",
+      img: "img/greek ring.jpeg",
       price: 250,
-      company: "Cohiba",
+      company: "DAJJ Rings",
       info:
         "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
       inCart: false,
@@ -27,10 +27,10 @@ export const storeProducts = [
     },
     {
       id: 3,
-      title: "Cohiba Behike 54 Box",
-      img: "img/3.jpg",
+      title: "Game of Thrones Ring",
+      img: "img/game of thrones ring.jpeg",
       price: 400,
-      company: "Cohiba",
+      company: "DAJJ Rings",
       info:
         "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
       inCart: false,
@@ -39,10 +39,10 @@ export const storeProducts = [
     },
     {
       id: 4,
-      title: "2 Boxes Cohiba Robusto",
-      img: "img/4.jpg",
+      title: "Turkey Ring",
+      img: "img/turkey ring.jpeg",
       price: 600,
-      company: "Cohiba",
+      company: "DAJJ Rings",
       info:
         "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
       inCart: false,
@@ -51,10 +51,10 @@ export const storeProducts = [
     },
     {
       id: 5,
-      title: "Cohiba Siglo VI Ceramic Jar",
-      img: "img/5.jpg",
+      title: "Sailors ring",
+      img: "img/sailors ring.jpeg",
       price: 850,
-      company: "Cohiba",
+      company: "DAJJ Rings",
       info:
         "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
       inCart: false,
@@ -63,10 +63,10 @@ export const storeProducts = [
     },
     {
       id: 6,
-      title: "Cohiba Siglo II",
-      img: "img/6.jpg",
+      title: "black and gold plated ring",
+      img: "img/black and gold plated ring.jpeg",
       price: 360,
-      company: "Cohiba",
+      company: "DAJJ Rings",
       info:
         "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
       inCart: false,
@@ -75,10 +75,10 @@ export const storeProducts = [
     },
     {
       id: 7,
-      title: "Cohiba Behike 56",
-      img: "img/7.jpg",
+      title: "forest pattern ring",
+      img: "img/forest pattern ring.jpeg",
       price: 450,
-      company: "Cohiba",
+      company: "DAJJ Rings",
       info:
         "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
       inCart: false,
@@ -87,10 +87,10 @@ export const storeProducts = [
     },
     {
       id: 8,
-      title: "Cohiba Maduros 5 Genios",
-      img: "img/8.jpg",
+      title: "mahogany hard wood ring",
+      img: "img/mahogany hard wood ring.jpeg",
       price: 950,
-      company: "Cohiba",
+      company: "DAJJ Rings",
       info:
         "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
       inCart: false,
@@ -104,7 +104,7 @@ export const storeProducts = [
     title: "Cohiba Behike 56",
     img: "img/1.jpg",
     price: 350,
-    company: "Cohiba",
+    company: "DAJJ Rings",
     info:
       "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
     inCart: false,
