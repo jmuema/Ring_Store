@@ -22,7 +22,7 @@ const Cart = (props) => {
                                     <CartTotals  value={value} history={props.history}/>
                                 </React.Fragment>)
                         } else {
-                            setTimeout(() => props.history.push('/'), 2300)
+                            setTimeout(() => props.history.push('/'), 230)
                             return <EmptyCart />
                         }
                     }}
