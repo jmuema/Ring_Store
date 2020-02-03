@@ -20,7 +20,7 @@ const Modal = () => {
                                         <h5 className="py-4">Item added to the cart</h5>
                                         <img src={img} className='img-fluid' alt='product' />
                                         <h5>{title}</h5>
-                                        <h5 className="text-muted">price : ${price}</h5>
+                                        <h5 className="text-muted">price : Ksh{price}</h5>
                                         <Link to="/"><ButtonContainer onClick={() => closeModal()}>store</ButtonContainer></Link>
                                         <Link to="/cart"><ButtonContainer cart onClick={() => closeModal()}>go to cart</ButtonContainer></Link>
                                     </div>
