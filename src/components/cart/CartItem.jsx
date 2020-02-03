@@ -11,7 +11,7 @@ const CartItem = ({ value, item }) => {
                 <span className='d-lg-none'>Product:</span>{title}
             </div>
             <div className="col-10 mx-auto col-lg-2">
-                <p className="text-uppercase">${' '}{price}</p>
+                <p className="text-uppercase">Ksh{' '}{price}</p>
             </div>
             <div className="col-10 mx-auto col-lg-2 my-2 my-lg-0">
                 <div className="d-flex justify-content-center">
@@ -28,7 +28,7 @@ const CartItem = ({ value, item }) => {
                 </div>
             </div>
             <div className="col-10 mx-auto col-lg-2">
-                <strong>item total: $ {total}</strong>
+                <strong>item total: Ksh {total}</strong>
             </div>
         </div>
     )
